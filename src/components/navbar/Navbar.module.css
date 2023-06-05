@@ -8,7 +8,6 @@
 }
 
 .logo {
-    padding-top: 20px;
     max-width: 200px;
     height: auto;
 }
@@ -16,16 +15,20 @@
 .menu {
     display: flex;
     align-items: center;
+
 }
 
 .menu li {
 
     padding: 1rem;
+     
 }
 
 .navbar a {
-    font-size: .8ram;
-}
+    font-size: 25px;
+    font-weight: bold;
+    color: black;
+ }
 
 .mobile_btn {
     display: none;

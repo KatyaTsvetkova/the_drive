@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import styles from './Navbar.module.css'
 import { AiOutlineUser, AIoutlineClose, AiOutlineSearch, AiOutlineMenu, AiOutlineClose } from 'react-icons/ai'
-import Logo from '../../images/logo.png'
+import Logo from '../../images/Logo.png'
 
 const Navbar = () => {
     const [nav, setNav] = useState(false)
