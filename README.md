@@ -20,8 +20,8 @@ The Drive uses the following dependencies:
 
 **License:**
 
-The Slice of Heaven project is licensed under the MIT License.
+The Drive project is licensed under the MIT License.
 
 **Contact:**
 
-If you have any questions, suggestions, or issues regarding the Slice of Heaven website, please contact me at kaffy@abv.bg.
+If you have any questions, suggestions, or issues regarding The Drive website, please contact me at kaffy@abv.bg.
